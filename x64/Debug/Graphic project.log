@@ -1,0 +1,112 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Graphic project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Character.cpp
+  Draw.cpp
+C:\Users\nicap\Desktop\Graphic project\Graphic project\GameInit.h(33,2): warning C4091: 'static ': ignored on left of 'GameInit' when no variable is declared
+C:\Users\nicap\Desktop\Graphic project\Graphic project\Draw.h(9,2): warning C4091: 'static ': ignored on left of 'Draw' when no variable is declared
+  GameInit.cpp
+C:\Users\nicap\Desktop\Graphic project\Graphic project\GameInit.h(33,2): warning C4091: 'static ': ignored on left of 'GameInit' when no variable is declared
+C:\Users\nicap\Desktop\Graphic project\Graphic project\GameInit.cpp(78,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nicap\Desktop\Graphic project\Graphic project\GameInit.cpp(84,119): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nicap\Desktop\Graphic project\Graphic project\GameInit.cpp(84,101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nicap\Desktop\Graphic project\Graphic project\GameInit.cpp(87,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nicap\Desktop\Graphic project\Graphic project\GameInit.cpp(91,125): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nicap\Desktop\Graphic project\Graphic project\GameInit.cpp(91,108): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nicap\Desktop\Graphic project\Graphic project\GameInit.cpp(94,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nicap\Desktop\Graphic project\Graphic project\GameInit.cpp(99,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\nicap\Desktop\Graphic project\Graphic project\GameInit.cpp(101,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\nicap\Desktop\Graphic project\Graphic project\GameInit.cpp(129,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\nicap\Desktop\Graphic project\Graphic project\GameInit.cpp(133,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\nicap\Desktop\Graphic project\Graphic project\GameInit.cpp(145,112): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\nicap\Desktop\Graphic project\Graphic project\GameInit.cpp(151,111): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\nicap\Desktop\Graphic project\Graphic project\GameInit.cpp(157,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nicap\Desktop\Graphic project\Graphic project\GameInit.cpp(159,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nicap\Desktop\Graphic project\Graphic project\GameInit.cpp(159,9): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\nicap\Desktop\Graphic project\Graphic project\GameInit.cpp(164,38): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\nicap\Desktop\Graphic project\Graphic project\GameInit.cpp(167,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nicap\Desktop\Graphic project\Graphic project\GameInit.cpp(167,10): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\nicap\Desktop\Graphic project\Graphic project\GameInit.cpp(177,86): warning C4244: 'argument': conversion from 'T' to '_Ty', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Users\nicap\Desktop\Graphic project\Graphic project\GameInit.cpp(187,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nicap\Desktop\Graphic project\Graphic project\GameInit.cpp(187,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nicap\Desktop\Graphic project\Graphic project\GameInit.cpp(190,28): warning C4305: 'argument': truncation from 'double' to 'float'
+  Input.cpp
+C:\Users\nicap\Desktop\Graphic project\Graphic project\GameInit.h(33,2): warning C4091: 'static ': ignored on left of 'GameInit' when no variable is declared
+C:\Users\nicap\Desktop\Graphic project\Graphic project\Input.h(8,2): warning C4091: 'static ': ignored on left of 'Input' when no variable is declared
+  Logic.cpp
+C:\Users\nicap\Desktop\Graphic project\Graphic project\GameInit.h(33,2): warning C4091: 'static ': ignored on left of 'GameInit' when no variable is declared
+C:\Users\nicap\Desktop\Graphic project\Graphic project\Logic.h(16,2): warning C4091: 'static ': ignored on left of 'Logic' when no variable is declared
+C:\Users\nicap\Desktop\Graphic project\Graphic project\Logic.cpp(29,65): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\nicap\Desktop\Graphic project\Graphic project\Logic.cpp(29,41): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\nicap\Desktop\Graphic project\Graphic project\Logic.cpp(65,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nicap\Desktop\Graphic project\Graphic project\Logic.cpp(70,33): warning C4305: 'argument': truncation from 'double' to 'float'
+  Main.cpp
+C:\Users\nicap\Desktop\Graphic project\Graphic project\GameInit.h(33,2): warning C4091: 'static ': ignored on left of 'GameInit' when no variable is declared
+C:\Users\nicap\Desktop\Graphic project\Graphic project\Draw.h(9,2): warning C4091: 'static ': ignored on left of 'Draw' when no variable is declared
+C:\Users\nicap\Desktop\Graphic project\Graphic project\Input.h(8,2): warning C4091: 'static ': ignored on left of 'Input' when no variable is declared
+C:\Users\nicap\Desktop\Graphic project\Graphic project\Logic.h(16,2): warning C4091: 'static ': ignored on left of 'Logic' when no variable is declared
+C:\Users\nicap\Desktop\Graphic project\Graphic project\Main.cpp(26,43): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  MainHero.cpp
+C:\Users\nicap\Desktop\Graphic project\Graphic project\GameInit.h(33,2): warning C4091: 'static ': ignored on left of 'GameInit' when no variable is declared
+C:\Users\nicap\Desktop\Graphic project\Graphic project\MainHero.cpp(98,63): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\nicap\Desktop\Graphic project\Graphic project\MainHero.cpp(98,39): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Moveable.cpp
+  Object.cpp
+C:\Users\nicap\Desktop\Graphic project\Graphic project\Object.cpp(11,39): warning C4244: '=': conversion from 'const T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\nicap\Desktop\Graphic project\Graphic project\Object.cpp(12,40): warning C4244: '=': conversion from 'const T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Generating Code...
+  Graphic project.vcxproj -> C:\Users\nicap\Desktop\Graphic project\x64\Debug\Mini Zombie Attack Game.exe
